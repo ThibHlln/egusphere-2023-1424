@@ -1,0 +1,12 @@
+{
+    "creators": [
+        {
+            "name": "Thibault Hallouin",
+            "affiliation": "Université Paris-Saclay, INRAE, HYCAR, France",
+            "orcid": "0000-0003-0144-2989"
+        }
+    ],
+    "title": "egusphere-2023-1424",
+    "description": "Data and code to reproduce figures in the article on evalhyd (https://doi.org/10.5194/egusphere-2023-1424).",
+    "notes": "Funded by the French Ministry for the Environment (DGPR/SNRH/SCHAPI)."
+}
